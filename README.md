@@ -42,6 +42,11 @@ cat part_* > cyberpanel_fixed_v2.4.8.tar.gz
 tar -xzf cyberpanel_fixed_v2.4.8.tar.gz
 cd cyberpanel_source
 sudo bash cyberpanel.sh
+
+
+
+
+
 روی ویندوز (Command Prompt):
 cmd
 copy /b part_* cyberpanel_fixed_v2.4.8.tar.gz
